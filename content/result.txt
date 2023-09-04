@@ -1,0 +1,1 @@
+Here the result with no-sync: This is file 1, This is file 2here the result with sync: This is file 1, This is file 2
